@@ -2,4 +2,4 @@
 You can get the HWID of your system
 
 
-Coming soon
+# Run the source code and get your hwid system 
